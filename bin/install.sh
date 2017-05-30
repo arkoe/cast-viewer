@@ -33,7 +33,7 @@ sudo apt install -y python-dev git-core libffi-dev libssl-dev
 curl -s https://bootstrap.pypa.io/get-pip.py | sudo python
 sudo pip install ansible==2.1.0.0
 
-git clone https://github.com/enflow-nl/cast-viewer.git /home/pi/cast-viewer
+git clone https://github.com/arkoe/cast-viewer.git /home/pi/cast-viewer
 cd /home/pi/cast-viewer
 chown -R pi:pi /home/pi/cast-viewer
 

@@ -90,7 +90,7 @@ def hostname():
     return hostname
 
 def api_url():
-    return 'https://cast.enflow.nl/api/v1/player/{0}'.format(hostname())
+    return 'https://acties.sundays.nl/MSIvHmdKGH/index.php/api/player/{0}'.format(hostname())
 
 def user_agent():
     return ('enflow-cast-viewer/' + get_git_tag())
