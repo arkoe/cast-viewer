@@ -15,8 +15,8 @@
 ; the configuration would look something like this.
 
 ;[wlan0]
-ssid=ArkoDraadloos
-passphrase=openamerongen
+ssid=HZN240499693
+passphrase=w5hyseYkqp5r
 
 
 ; Connect to a Hamachi network.
